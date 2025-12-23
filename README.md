@@ -37,7 +37,7 @@ This project implements complex architectural patterns manually, without externa
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/SEU_USUARIO/pure-mart.git](https://github.com/SEU_USUARIO/pure-mart.git)
+    git clone https://github.com/AiltonFilho26/pure-mart.git
     ```
 2.  Install dependencies:
     ```bash
@@ -61,5 +61,6 @@ Building this project highlighted the complexity hidden by modern tools:
 3.  **Event Listener Management:** Preventing memory leaks by correctly attaching and considering detachment strategies for event listeners in a SPA environment.
 
 ---
+
 
 Made with 💙 and lots of `console.log` by Ailton Teixeira.
